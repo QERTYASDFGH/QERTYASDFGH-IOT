@@ -1,36 +1,22 @@
 # Charan Nallani
 
-**Aspiring ML Engineer** · Computer Vision · GenAI · LLMs · AI Research
+**ML Engineer** · Computer Vision · GenAI · LLMs · AI Research
 
-I am building end-to-end machine learning expertise with a focused path toward
-ML Engineering, Generative AI/LLM Engineering, and AI Research. Currently
-developing strong foundations in Python, Deep Learning, and production ML systems.
+Building intelligent systems from research to production.
+Currently focused on real-time computer vision and
+working toward GenAI/LLM Engineering and AI Research.
 
 📍 Andhra Pradesh, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/charan-nallani) · [Portfolio](https://charannallani.github.io) · [Email](mailto:nallanicharan64@gmail.com)
 
 ---
 
-## Currently Building
+## Active Projects
 
 **[Multi-Object Tracking with Re-Identification](#)**  
-Real-time detection and identity-persistent tracking across temporary occlusions
-and multi-camera setups. Built on YOLOv8 + ByteTrack + torchreid.
-Benchmarked on MOT17. — *In Progress*
-
----
-
-## Learning Path
-
-| Stage | Topics | Status |
-|---|---|---|
-| Python Foundations | Functions, OOP, File Handling, Error Handling | 🔄 In Progress |
-| Mathematics for ML | Linear Algebra, Statistics, Calculus | ⏳ Upcoming |
-| Data Handling | NumPy, Pandas, Visualization | ⏳ Upcoming |
-| Machine Learning | Classical ML, Scikit-learn, Model Evaluation | ⏳ Upcoming |
-| Deep Learning | Neural Networks, CNNs, Transformers, PyTorch | ⏳ Upcoming |
-| MLOps | Docker, FastAPI, MLflow, Cloud | ⏳ Upcoming |
-| Generative AI | LLMs, RAG, AI Agents, Fine-tuning | ⏳ Upcoming |
+Real-time detection and identity-persistent tracking across
+occlusions and multi-camera setups.  
+Stack: YOLOv8 · ByteTrack · torchreid · PyTorch
 
 ---
 
@@ -38,20 +24,19 @@ Benchmarked on MOT17. — *In Progress*
 
 | Domain | Tools |
 |---|---|
-| Languages | Python |
-| ML & CV | PyTorch, OpenCV, YOLOv8, Scikit-learn |
+| Core ML & CV | PyTorch, OpenCV, YOLOv8, Scikit-learn |
 | Data | NumPy, Pandas, Matplotlib, Seaborn |
 | MLOps | Docker, FastAPI, MLflow, Git |
-| Cloud | AWS (Learning) |
+| Cloud | AWS |
 
 ---
 
 ## Engineering Focus
 
-- Computer Vision and real-time detection pipelines
-- Large Language Models and Generative AI systems  
+- Real-time computer vision and detection pipelines
+- Large Language Models and Generative AI systems
 - Production grade ML deployment and inference optimization
-- Building toward AI Research Engineering
+- AI Research Engineering
 
 ---
 
